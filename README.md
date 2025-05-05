@@ -30,7 +30,7 @@
 ## 📝 碎碎念/残念
 杂感:<br>
 瞎几把写的小说:<br>
-学习日记:<br>
+学习日记:[在学了](https://github.com/SmillySmillick/SmillySmillick/blob/main/menu.md)<br>
 开发实录:<br>
 学业准备:<br>
 为永雏塔菲的施工内容:[永雏塔菲游戏百科](https://acetaffy.org/index.php?title=游戏统计)<br>
