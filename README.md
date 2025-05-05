@@ -1,4 +1,4 @@
-## Hi there 👋
+## 早上中午晚上嚎^v^
 <!-- 
 👋 欢迎来到你的 GitHub 个人主页 README!
 请将 [方括号] 中的占位符信息替换为你自己的内容。
@@ -6,9 +6,7 @@
 你可以在内容中融入红色元素，例如使用红色的徽章。
 -->
 
-# 👋 你好喵
-
-✨ 这里是Smillick的 GitHub 后花园！欢迎和我一起玩!
+#  这里是Smillick的 GitHub 后花园！欢迎和我一起玩!
 
 ---
 
@@ -40,7 +38,6 @@
 
 ## 🌐 社交账户
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/@Smilly_smillick)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:3185479846@qq.com)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=red)](https://space.bilibili.com/361655499)
 
 ---
