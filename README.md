@@ -41,7 +41,7 @@
 ## 🌐 社交账户
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=red)](https://twitter.com/@Smilly_smillick)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=red)](mailto:3185479846@qq.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=red)](https://space.bilibili.com/Smillick)
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=red)](https://space.bilibili.com/361655499)
 
 ---
 
