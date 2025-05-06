@@ -46,7 +46,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=red)](https://space.bilibili.com/361655499)
 
 ---
-
+<!--
 ## 📊 GitHub 统计 (GitHub Stats)
 
 [![你的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=SmillySmillick&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,7 +54,7 @@
 [![你的顶级语言](https://github-readme-stats.vercel.app/api/top-langs/?username=SmillySmillick&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
+--->
 
 
 <!--
