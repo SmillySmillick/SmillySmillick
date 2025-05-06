@@ -17,6 +17,7 @@
 学业焦虑中...<br>
 ---
 ## 快速TP
+[CF](https://codeforces.com/problemset)<br>
 [力扣刷题](https://leetcode.com/problemset/)<br>
 [傻宝学院平台A](https://sino.cberse.cn/student)<br>
 [傻宝学院平台B](https://222.20.126.111/student)
