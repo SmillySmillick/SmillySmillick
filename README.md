@@ -16,7 +16,9 @@
 魂p猎p,钟爱日恐RPG,2d银河恶魔城,立志于成为独立游戏制作者,<br>
 学业焦虑中...<br>
 ---
-
+## 快速TP
+[力扣刷题](https://leetcode.com/problemset/)
+---
 ## 🛠️ 涉猎
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
