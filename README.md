@@ -17,6 +17,7 @@
 学业焦虑中...<br>
 ---
 ## 快速TP
+[csdiy](https://csdiy.wiki)<br>
 [牛客](https://ac.nowcoder.com/acm/problem/list)<br>
 [洛谷](https://www.luogu.com.cn/problem/list)<br>
 [CF](https://codeforces.com/problemset)<br>
