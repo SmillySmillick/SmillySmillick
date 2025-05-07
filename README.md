@@ -17,6 +17,7 @@
 学业焦虑中...<br>
 ---
 ## 快速TP
+[洛谷](https://www.luogu.com.cn/problem/list)<br>
 [CF](https://codeforces.com/problemset)<br>
 [LC](https://leetcode.com/problemset/)<br>
 [傻宝VM平台A](https://sino.cberse.cn/student)<br>
