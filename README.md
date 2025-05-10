@@ -18,6 +18,7 @@
 ---
 ## 快速TP
 [Smilly&Smillick的排水口](https://smillysmillick.github.io/)<br>
+[CCC](https://www.cryptopals.com/)<br>
 [csdiy](https://csdiy.wiki)<br>
 [牛客](https://ac.nowcoder.com/acm/problem/list)<br>
 [洛谷](https://www.luogu.com.cn/problem/list)<br>
